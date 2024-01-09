@@ -1,8 +1,4 @@
-
 # Local Dining Guide
-
-Web Based Dining Information Solution
-
 
 Welcome to the Local Dining Guide project! This web-based software solution is designed to
 provide users with comprehensive dining information, making it easy for them to explore
@@ -54,6 +50,27 @@ images.
 3. Launch the Application: Open the index.html file in your web browser.
        ```open index.html```
 
+## USAGE
+
+* **Search for Restaurants:** Use the search functionality to find dining options
+based on your preferences.
+* **Explore Restaurant Profiles:** Click on a restaurant to view its detailed profile,
+including menu items and reviews.
+* **Read and Write Reviews:** Share your dining experiences by leaving reviews
+and ratings for restaurants.
+* **Save Favourites:** Create an account to save your favourite restaurants and
+receive personalized recommendations.
+* **Get Directions:** Click on the map integration to get directions to the selected
+restaurant
+
+| Name | Email | Phone |
+| :---         |     :---:      |          ---: |
+| Ahmad Saki   | ahmadsaki8@gmail.com     | 01925163127  |
+| Shaikh     | shaikhsr.cse@gmail.com      | 01824050513    |
+| Aisha      | aishatonny13@gmail.com      | 01776175552    |
+| Golam Rabbi   | g.rabbidiu@gmail.com    | 01834026012  |
+| Arman Hosen   | armanhosen9@gmail.com     | 01979621322   |
+
 # Contact Information
 
 For any inquiries or support, please email us at [support@localdiningguide.com](mailto:support@localdiningguide.com) or visit our website [http://www.localdiningguide.com](http://www.localdiningguide.com).
@@ -67,3 +84,4 @@ Follow us on social media:
 ![Instagram](https://img.icons8.com/ios/15/000000/instagram.png) : [@localdiningguide](https://www.instagram.com/localdiningguide)
 
 We hope you enjoy using Local Dining Guide to discover fantastic dining options in your area! Bon appétit!
+
